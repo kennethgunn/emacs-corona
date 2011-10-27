@@ -1,0 +1,10 @@
+Add this to your .emacs file to simplify Corona SDK development.
+
+After you start emacs, execute "M-x corona". It will open up a buffer
+called *corona* with the Corona terminal. The Corona Simulator will
+also open. Errors will be highlighted and clickable, taking you to the
+location of the error.
+
+
+
+
